@@ -1,3 +1,5 @@
+#header
+
 
 ## Generate fake dataset
 dbh <- runif(1000, 5, 50)
